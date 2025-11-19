@@ -62,7 +62,7 @@ I’m transitioning from management and customer service into data science, wher
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/joseph-contrera]
+- **LinkedIn:** [https://www.linkedin.com/in/joseph-contreras]
 
 - **Email:** guccijo24ad@outlook.com 
 

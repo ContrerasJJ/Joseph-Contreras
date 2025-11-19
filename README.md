@@ -23,8 +23,8 @@ I’m transitioning from management and customer service into data science, wher
 - Performed data cleaning, exploratory analysis, and statistical tests.  
 - Helped identify which plan was more profitable and which user segments to target.
 
-➡️ **Repo:** _[link coming soon]_  
-
+➡️ **Repo:**  [
+](https://github.com/ContrerasJJ/Megaline-Telecom-Analysis.git)
 ---
 
 ### 2️⃣ Video Game Sales Forecasting

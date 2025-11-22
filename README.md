@@ -1,69 +1,95 @@
-# 👋 Hi, I'm Joseph Contreras  
-### Data Analyst / Aspiring Data Scientist | Python • SQL • EDA • Visualization
+<!-- Animated Header -->
+<h1 align="center">Hi, I'm <strong>Joseph Contreras</strong> 👋</h1>
+<h3 align="center">Data Analyst • Aspiring Data Scientist • Storytelling With Data</h3>
 
-I'm a data-driven problem solver with a background in leadership, operations, and customer-facing roles — now transitioning into Data Science through the TripleTen Data Science Program.  
-
-I love turning messy datasets into clear insights, using analytics to understand user behavior, and building projects that connect technical skill with real business value.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ContrerasJJ&color=blue&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
+
+I'm a data-driven problem solver transitioning into Data Science through TripleTen.  
+I specialize in turning messy datasets into clear insights, building analytical models, and presenting findings that drive business impact.
+
 - 🎓 TripleTen Data Science Graduate  
-- 🎮 Passionate about analytics in gaming, sports, retail, and telecom  
-- 📊 Experienced in data cleaning, EDA, A/B testing, and forecasting  
-- 🧠 Strong communicator with 10+ years of leadership & operational experience  
-- 🛠 Constantly improving my skills through real end-to-end projects  
+- 📊 Experienced in EDA, forecasting, A/B testing, and visualization  
+- 💬 Strong communication + leadership background (10+ years)  
+- 🎮 Passionate about analytics in gaming, telecom, sports, and retail  
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy  
-**Tools:** Jupyter Notebook, Git/GitHub, Excel, Tableau, Power BI  
-**Skills:** Data Cleaning, EDA, Forecasting, Statistical Testing, Visualization, Storytelling  
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-008FC7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎮 **Video Game Sales Forecasting**  
-Forecasted next-year sales using regional trends, platform performance, and hypothesis testing.  
-🔗 Repo: [Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)
+### 🎮 **Video Game Sales Forecasting**
+Forecasted 2017 sales using regional trends, platform performance & hypothesis testing.  
+🔗 Repo: **[Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)**
 
 ---
 
-### 📱 **Megaline Telecom User Behavior Analysis**  
-Analyzed customer usage, plan profitability, and churn indicators. Includes A/B testing and revenue modeling.  
-🔗 Repo: [Megaline-Telecom-Analysis](https://github.com/ContrerasJJ/Megaline-Telecom-Analysis)
+### 📱 **Megaline Telecom User Behavior Analysis**
+Analyzed customer usage, plan profitability & churn trends; includes A/B testing.  
+🔗 Repo: **[Megaline-Telecom-Analysis](https://github.com/ContrerasJJ/Megaline-Telecom-Analysis)**
 
 ---
 
-### 🛒 **Instacart Customer Behavior EDA**  
-Exploratory data analysis on grocery order trends, peak times, product demand, and repeat buying behavior.  
-🔗 Repo: [Instacart-EDA-Analysis](https://github.com/ContrerasJJ/Instacart-EDA-Analysis)
+### 🛒 **Instacart EDA – Customer Shopping Behavior**
+EDA project using Instacart data: order patterns, peak times, and product trends.  
+🔗 Repo: **[Instacart-EDA-Analysis](https://github.com/ContrerasJJ/Instacart-EDA-Analysis)**
 
 ---
 
-### 📺 **IMDb TV Show Ratings & Engagement Study**  
-Analyzed how vote count influences ratings, identified genre patterns, and visualized viewer engagement.  
-🔗 Repo: [IMDb-TV-Show-Analysis](https://github.com/ContrerasJJ/IMDb-TV-Show-Analysis)
+### 📺 **IMDb TV Show Ratings & Engagement Study**
+Explored how vote count and ratings correlate; analyzed genres & audience behavior.  
+🔗 Repo: **[IMDb-TV-Show-Analysis](https://github.com/ContrerasJJ/IMDb-TV-Show-Analysis)**
 
 ---
 
-## 📈 What I’m Working On
-- Improving machine learning fundamentals  
-- Building portfolio-ready end-to-end case studies  
-- Strengthening SQL, Tableau, and Power BI visual dashboards  
-- Expanding my GitHub into a full professional portfolio
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ContrerasJJ&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ContrerasJJ&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContrerasJJ&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/josephcontreras-jr  
-- **GitHub:** github.com/ContrerasJJ  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josephcontreras-jr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ContrerasJJ">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-### ⭐ If you like any of my work, feel free to star the repo or connect on LinkedIn!
-
-
+### ⭐ If you like my work, feel free to star my repositories or connect with me!

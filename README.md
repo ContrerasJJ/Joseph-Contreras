@@ -1,4 +1,8 @@
-<!-- Animated Header -->
+<p align="center">
+  <img src="Banner.png" alt="Joseph Contreras – Data Scientist Banner" width="100%">
+</p>
+
+!-- Animated Header -->
 <h1 align="center">Hi, I'm <strong>Joseph Contreras</strong> 👋</h1>
 <h3 align="center">Data Analyst • Aspiring Data Scientist • Storytelling With Data</h3>
 

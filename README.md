@@ -14,11 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a data-driven problem solver transitioning into Data Science through TripleTen.  
+I'm a data driven problem solver transitioning into Data Science through TripleTen.  
 I specialize in turning messy datasets into clear insights, building analytical models, and presenting findings that drive business impact.
 
-Fun Fact
-My background in management and customer-facing work shaped my strengths in communication, teamwork, and problem-solving skills I now bring into my analytics and data science work.
+Fun Fact:
+
+My background in management and customer facing work shaped my strengths in communication, teamwork, and problem solving skills I now bring into my analytics and data science work.
 
 
 - 🎓 TripleTen Data Science Graduate  

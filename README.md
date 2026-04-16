@@ -72,12 +72,12 @@ I’m passionate about using data to improve decision making in industries like 
 • Explored relationships between release timing, platform success, and total sales performance.
 🔗 Repo: **[Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)**
 
-# 💡 Key Insight:
+### 💡 Key Insight:
 • The video game market experienced rapid growth from the late 1990s to mid-2000s, peaking around 2008–2009, followed by a noticeable decline. This suggests a market saturation point and highlights the importance of timing when entering or investing in the gaming industry.
 • Certain platforms dominate sales during specific time periods, indicating strong product life cycles. For example, platforms like Wii and DS generated significantly higher sales during peak years, reinforcing the importance of platform selection in maximizing game success.
 • Regional sales differences and genre popularity suggest that game success is not universal across markets. Tailoring game releases based on region-specific preferences can significantly improve overall performance and revenue.
 
-# 📌 Business Recommendation:
+### 📌 Business Recommendation:
 Focus on launching games during rising market trends and prioritize high-performing platforms during their peak lifecycle. Additionally, adapting game genres and marketing strategies based on regional preferences can maximize global sales performance.
 
 ---

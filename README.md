@@ -88,15 +88,6 @@ Explored how vote count and ratings correlate; analyzed genres & audience behavi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ContrerasJJ&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ContrerasJJ&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Most Used Languages
 
 <p align="center">
@@ -106,7 +97,11 @@ Explored how vote count and ratings correlate; analyzed genres & audience behavi
 ---
 
 ## 📫 Connect With Me
+🚀 Let’s connect!
 
+I’m actively seeking Data Analyst / Data Scientist opportunities where I can apply my skills to real-world business problems.
+
+📩 Open to networking, collaborations, and opportunities.
 <p align="center">
   <a href="https://www.linkedin.com/in/josephcontreras-jr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>

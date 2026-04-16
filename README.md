@@ -99,7 +99,7 @@ Explored how vote count and ratings correlate; analyzed genres & audience behavi
 ## 📫 Connect With Me
 🚀 Let’s connect!
 
-I’m actively seeking Data Analyst / Data Scientist opportunities where I can apply my skills to real-world business problems.
+I’m actively seeking Data Analyst / Data Scientist opportunities where I can apply my skills to real world business problems.
 
 📩 Open to networking, collaborations, and opportunities.
 <p align="center">

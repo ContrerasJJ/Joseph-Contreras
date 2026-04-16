@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm <strong>Joseph Contreras</strong> 👋</h1>
-<h3 align="center">Data Analyst • Aspiring Data Scientist • Storytelling With Data</h3>
+<h3 align="center"> Data Analyst | Machine Learning | Python, SQL, Data Visualization </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ContrerasJJ&color=blue&style=for-the-badge" alt="profile views"/>
@@ -26,15 +26,17 @@ I specialize in analyzing complex datasets, building predictive models, and unco
 
 I’m passionate about using data to improve decision making in industries like sports, retail, and telecom.
 
-# Fun Fact:
+• 🎓 TripleTen Data Science Graduate  
+• 📊 Experienced in EDA, forecasting, A/B testing, and visualization  
+• 💬 Strong communication + leadership background (10+ years)  
+• 🎮 Passionate about analytics in gaming, telecom, sports, and retail  
 
-My background in management and customer facing work shaped my strengths in communication, teamwork, and problem solving skills I now bring into my analytics and data science work.
+---
 
-
-- 🎓 TripleTen Data Science Graduate  
-- 📊 Experienced in EDA, forecasting, A/B testing, and visualization  
-- 💬 Strong communication + leadership background (10+ years)  
-- 🎮 Passionate about analytics in gaming, telecom, sports, and retail  
+## 📈 What I’m Currently Working On
+• Improving machine learning model performance and evaluation techniques
+• Building end-to-end data projects with real-world business scenarios
+• Expanding SQL and data visualization skills
 
 ---
 
@@ -62,37 +64,50 @@ My background in management and customer facing work shaped my strengths in comm
 ## 📂 Featured Projects
 
 ### 🎮📊 **Video Game Sales Forecasting**
-• Built a predictive model to forecast global video game sales using historical data
-• Identified top-performing genres and regional trends impacting revenue
-• Achieved 50% improvement over baseline model
-• Tools: Python, Pandas, Matplotlib, Scikit-learn
+• Performed data cleaning and preprocessing, handling missing values and correcting data types for accurate analysis.
+• Conducted EDA to uncover trends in platform performance, genre popularity, and regional sales.
+• Analyzed year over year release trends to identify shifts in the gaming market lifecycle.
+• Evaluated the impact of ESRB ratings on sales across different regions.
+• Built and compared multiple machine learning models to improve prediction accuracy.
+• Validated model performance using appropriate evaluation metrics (RMSE / R²).
+• Delivered insights to simulate real-world business decisions for game publishing strategy.
 🔗 Repo: **[Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)**
 
 ---
 
 ### 📱 **Megaline Telecom User Behavior Analysis**
-Analyzed customer usage, plan profitability & churn trends; includes A/B testing.  
+• Cleaned and prepared customer usage data, addressing missing values and inconsistencies.
+• Performed EDA to analyze user behavior patterns across different telecom plans.
+• Compared plan profitability by analyzing revenue vs usage trends.
+• Identified key factors influencing customer churn using behavioral data.
+• Conducted statistical hypothesis testing to validate differences between user groups.
+• Built classification models to recommend optimal plans for users.
+• Evaluated model performance using accuracy and F1-score to meet project requirements.
+• Provided actionable recommendations to improve customer retention and revenue.
 🔗 Repo: **[Megaline-Telecom-Analysis](https://github.com/ContrerasJJ/Megaline-Telecom-Analysis)**
 
 ---
 
 ### 🛒 **Instacart EDA – Customer Shopping Behavior**
-EDA project using Instacart data: order patterns, peak times, and product trends.  
+• Cleaned and merged multiple datasets to create a unified view of customer orders.
+• Analyzed purchasing patterns to identify peak ordering times and customer habits.
+• Investigated product popularity and reorder frequency to uncover buying behavior.
+• Identified top categories and products driving repeat purchases.
+• Visualized trends using Matplotlib/Seaborn to communicate insights effectively.
+• Explored customer segmentation based on ordering frequency and basket size.
+• Generated insights to support marketing strategies and inventory optimization.
 🔗 Repo: **[Instacart-EDA-Analysis](https://github.com/ContrerasJJ/Instacart-EDA-Analysis)**
 
 ---
 
 ### 📺 **IMDb TV Show Ratings & Engagement Study**
-Explored how vote count and ratings correlate; analyzed genres & audience behavior.  
+• Cleaned and processed dataset containing ratings, votes, and genre information.
+• Analyzed relationship between vote count and average ratings to measure engagement.
+• Explored genre based performance to identify audience preferences.
+• Identified trends in highly rated vs highly popular shows.
+• Visualized correlations and distributions to support findings.
+• Provided insights on factors influencing viewer engagement and content success.
 🔗 Repo: **[IMDb-TV-Show-Analysis](https://github.com/ContrerasJJ/IMDb-TV-Show-Analysis)**
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContrerasJJ&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 

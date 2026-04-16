@@ -14,8 +14,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a data driven problem solver transitioning into Data Science through TripleTen.  
-I specialize in turning messy datasets into clear insights, building analytical models, and presenting findings that drive business impact.
+I’m a data analyst with a strong background in operations and leadership, transitioning into data science through TripleTen.
+
+I specialize in analyzing complex datasets, building predictive models, and uncovering insights that drive real business decisions. My experience managing high volume operations has shaped my ability to think critically, solve problems under pressure, and communicate insights clearly to stakeholders.
+
+🔍 What I bring:
+• Data analysis & forecasting (Python, Pandas, SQL)
+• Machine learning & predictive modeling (Scikit-learn)
+• Business-focused insights from real-world datasets
+• Strong leadership & communication from 10+ years in management
+
+I’m passionate about using data to improve decision making in industries like sports, retail, and telecom.
 
 Fun Fact:
 
@@ -44,11 +53,19 @@ My background in management and customer facing work shaped my strengths in comm
 </p>
 
 ---
+## Core Skills:
+• Data Analysis: Pandas, NumPy, SQL
+• Visualization: Matplotlib, Seaborn, Tableau
+• Machine Learning: Scikit-learn
+• Tools: Git, Jupyter Notebook
 
 ## 📂 Featured Projects
 
-### 🎮 **Video Game Sales Forecasting**
-Forecasted 2017 sales using regional trends, platform performance & hypothesis testing.  
+### 🎮📊 **Video Game Sales Forecasting**
+• Built a predictive model to forecast global video game sales using historical data
+• Identified top-performing genres and regional trends impacting revenue
+• Achieved 50% improvement over baseline model
+• Tools: Python, Pandas, Matplotlib, Scikit-learn
 🔗 Repo: **[Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)**
 
 ---

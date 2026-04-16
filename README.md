@@ -18,7 +18,7 @@ I’m a data analyst with a strong background in operations and leadership, tran
 
 I specialize in analyzing complex datasets, building predictive models, and uncovering insights that drive real business decisions. My experience managing high volume operations has shaped my ability to think critically, solve problems under pressure, and communicate insights clearly to stakeholders.
 
-🔍 What I bring:
+## 🔍 What I bring:
 • Data analysis & forecasting (Python, Pandas, SQL)
 • Machine learning & predictive modeling (Scikit-learn)
 • Business-focused insights from real-world datasets
@@ -26,7 +26,7 @@ I specialize in analyzing complex datasets, building predictive models, and unco
 
 I’m passionate about using data to improve decision making in industries like sports, retail, and telecom.
 
-Fun Fact:
+# Fun Fact:
 
 My background in management and customer facing work shaped my strengths in communication, teamwork, and problem solving skills I now bring into my analytics and data science work.
 

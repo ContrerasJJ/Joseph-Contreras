@@ -83,14 +83,13 @@ Focus on launching games during rising market trends and prioritize high-perform
 ---
 
 ### 📱 **Megaline Telecom User Behavior Analysis**
-• Cleaned and prepared customer usage data, addressing missing values and inconsistencies.
-• Performed EDA to analyze user behavior patterns across different telecom plans.
-• Compared plan profitability by analyzing revenue vs usage trends.
-• Identified key factors influencing customer churn using behavioral data.
-• Conducted statistical hypothesis testing to validate differences between user groups.
-• Built classification models to recommend optimal plans for users.
-• Evaluated model performance using accuracy and F1-score to meet project requirements.
-• Provided actionable recommendations to improve customer retention and revenue.
+• Merged and transformed multiple datasets (calls, messages, internet usage) into a unified user level dataset for analysis.
+• Engineered features to calculate monthly revenue per user based on complex pricing rules and overage conditions.
+• Conducted exploratory data analysis to identify behavioral differences between customer segments across service usage.
+• Performed statistical hypothesis testing (two-sample t-test) to validate revenue differences between plans (p < 0.01).
+• Identified key revenue drivers, including internet usage and overage frequency, impacting profitability.
+• Segmented users based on usage behavior to uncover high value customer groups.
+• Translated analytical findings into actionable business recommendations to increase revenue and improve customer retention.
 🔗 Repo: **[Megaline-Telecom-Analysis](https://github.com/ContrerasJJ/Megaline-Telecom-Analysis)**
 
 ---

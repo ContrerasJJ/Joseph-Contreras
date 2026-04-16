@@ -64,14 +64,21 @@ I’m passionate about using data to improve decision making in industries like 
 ## 📂 Featured Projects
 
 ### 🎮📊 **Video Game Sales Forecasting**
-• Performed data cleaning and preprocessing, handling missing values and correcting data types for accurate analysis.
-• Conducted EDA to uncover trends in platform performance, genre popularity, and regional sales.
-• Analyzed year over year release trends to identify shifts in the gaming market lifecycle.
-• Evaluated the impact of ESRB ratings on sales across different regions.
-• Built and compared multiple machine learning models to improve prediction accuracy.
-• Validated model performance using appropriate evaluation metrics (RMSE / R²).
-• Delivered insights to simulate real-world business decisions for game publishing strategy.
+• Analyzed game release trends over time, identifying a peak in industry activity around 2008–2009 followed by a market decline.
+• Evaluated platform performance across years, uncovering platform life cycles and periods of dominance.
+• Aggregated total sales across regions to create a global sales metric for more accurate analysis.
+• Identified data quality issues including missing values, inconsistent formatting, and placeholder entries (e.g., "TBD").
+• Cleaned and standardized dataset to improve reliability of analysis and modeling.
+• Explored relationships between release timing, platform success, and total sales performance.
 🔗 Repo: **[Video-Game-Sales-Forecasting](https://github.com/ContrerasJJ/Video-Game-Sales-Forecasting)**
+
+# 💡 Key Insight:
+• The video game market experienced rapid growth from the late 1990s to mid-2000s, peaking around 2008–2009, followed by a noticeable decline. This suggests a market saturation point and highlights the importance of timing when entering or investing in the gaming industry.
+• Certain platforms dominate sales during specific time periods, indicating strong product life cycles. For example, platforms like Wii and DS generated significantly higher sales during peak years, reinforcing the importance of platform selection in maximizing game success.
+• Regional sales differences and genre popularity suggest that game success is not universal across markets. Tailoring game releases based on region-specific preferences can significantly improve overall performance and revenue.
+
+# 📌 Business Recommendation:
+Focus on launching games during rising market trends and prioritize high-performing platforms during their peak lifecycle. Additionally, adapting game genres and marketing strategies based on regional preferences can maximize global sales performance.
 
 ---
 
